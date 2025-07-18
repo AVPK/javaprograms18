@@ -8,6 +8,6 @@ public class ReversingString {
 		System.out.println("Enter Your Name:");
 		String str = scr.next();
 		System.out.println(str);
-
+		scr.close(); 
 	}
 }
